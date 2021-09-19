@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AdiIslamay/AdiIslamay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo semua! 
 
-Here are some ideas to get you started:
+Perkenalkan nama saya **Adi Islamay**.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya seorang **IT Support** di [PT Data Sains Inteknova](https://datasains.co.id/).\
+
+Saya Juga Seorang Mahasiswa Teknik Informatika di [Universitas Esa Unggul](https://www.esaunggul.ac.id)./
+
+Saat ini saya bertanggung jawab pada pemeliharaan software.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/adiislamayvm/)ku ya.
+
+
