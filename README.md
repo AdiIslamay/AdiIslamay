@@ -2,7 +2,7 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Adi Islamay**.\
+Perkenalkan nama saya **Adi Islamay**.
 
 Saya seorang **IT Support** di [PT Data Sains Inteknova](https://datasains.co.id/).
 
