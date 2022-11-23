@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Halo semua! 
+# Hello Everyone! 
 
 Perkenalkan nama saya **Adi Islamay**.
 
