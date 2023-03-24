@@ -4,7 +4,7 @@
 
 Perkenalkan nama saya **Adi Islamay**.
 
-Saya berprofesi sebagai **IT Hepdesk** 
+Saya berprofesi sebagai **IT Support** 
 
 Saya Juga Seorang Mahasiswa Teknik Informatika di [Universitas Esa Unggul](https://www.esaunggul.ac.id).
 
