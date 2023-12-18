@@ -4,7 +4,9 @@
 
 Perkenalkan nama saya **Adi Islamay**.
 
-Saya berprofesi sebagai **IT Support** 
+Saya berprofesi sebagai **IT Support at MNC Media**
+Saya Juga Tertarik dan Mempelajari **Bidang Web Developer**
+Memiliki Minat Karir Di Dunia IT terutama Developer.
 
 Saya Mahasiswa Semester Akhir Teknik Informatika di [Universitas Esa Unggul](https://www.esaunggul.ac.id).
 
